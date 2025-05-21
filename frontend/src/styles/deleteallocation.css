@@ -1,0 +1,95 @@
+.delete-container-del {
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 700px;
+  background-color: #fefefe;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.delete-title-del {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.delete-options-del {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 1rem;
+  font-size: 16px;
+}
+
+.id-input-del input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 16px;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.get-button-del {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #008cba;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.get-button-del:hover {
+  background-color: #006f98;
+}
+
+.table-wrapper-del {
+  width: 1200px;
+  margin: 2rem auto;
+  
+}
+
+.delete-dropdown-del {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  max-width: 400px;
+  margin: 2rem auto;
+}
+
+.delete-dropdown-del select {
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  width: 100%;
+}
+
+.delete-btn-del {
+  padding: 10px 20px;
+  background-color: #e63946;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 40px;
+  width: 80%;
+}
+
+.delete-btn-del:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.delete-btn-del:hover:enabled {
+  background-color: #b71c1c;
+}

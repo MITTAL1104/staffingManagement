@@ -1,0 +1,60 @@
+2025-05-19 11:55:53,932 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 11:55:53,933 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 11:55:54,355 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 11:55:54,485 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 11:55:54,946 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 11:55:54,966 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 11:55:54,966 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 11:55:55,011 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 11:58:59,350 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 11:58:59,350 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 11:58:59,350 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 11:58:59,385 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 11:58:59,436 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 11:58:59,437 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 11:58:59,438 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 11:58:59,451 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 11:59:52,342 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching allocations for Employee ID: 40
+2025-05-19 11:59:52,342 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getByEmployeeID(...) method of AllocationServiceImpl
+2025-05-19 11:59:52,342 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getByEmployeeID(...) method of AllocationDAOImpl
+2025-05-19 11:59:52,439 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getByEmployeeID(...) method of AllocationDAOImpl
+2025-05-19 16:38:30,932 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 16:38:30,933 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 16:38:30,964 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 16:38:31,056 [http-nio-8083-exec-1] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 16:38:31,316 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 16:38:31,320 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 16:38:31,321 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 16:38:31,345 [http-nio-8083-exec-2] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 16:38:35,704 [http-nio-8083-exec-3] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 16:38:35,704 [http-nio-8083-exec-3] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 16:38:35,704 [http-nio-8083-exec-3] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 16:38:35,719 [http-nio-8083-exec-3] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 16:40:04,662 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 16:40:04,663 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 16:40:04,663 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 16:40:04,705 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:09:10,349 [http-nio-8083-exec-10] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:09:10,350 [http-nio-8083-exec-10] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:09:10,813 [http-nio-8083-exec-10] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:09:10,944 [http-nio-8083-exec-10] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:09:11,630 [http-nio-8083-exec-9] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:09:11,633 [http-nio-8083-exec-9] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:09:11,634 [http-nio-8083-exec-9] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:09:11,660 [http-nio-8083-exec-9] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:11:18,444 [http-nio-8083-exec-7] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:11:18,444 [http-nio-8083-exec-7] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:11:18,445 [http-nio-8083-exec-7] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:11:18,483 [http-nio-8083-exec-7] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:11:18,622 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:11:18,622 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:11:18,623 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:11:18,641 [http-nio-8083-exec-6] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:11:48,709 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:11:48,709 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:11:48,710 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:11:48,741 [http-nio-8083-exec-5] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl
+2025-05-19 17:11:48,799 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.controller.AllocationController - Fetching all allocations
+2025-05-19 17:11:48,800 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.service.AllocationServiceImpl - Reached getAllAllocations(...) method of AllocationServiceImpl
+2025-05-19 17:11:48,800 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Entering getAllAllocations(...) method of AllocatideonDAOImpl
+2025-05-19 17:11:48,815 [http-nio-8083-exec-4] INFO  com.spectramd.focus.allocation.dao.AllocationDAOImpl - Exit getAllAllocations(...) method of AllocationDAOImpl

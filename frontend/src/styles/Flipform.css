@@ -1,0 +1,144 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Centering the Flip Form */
+.ff-container {
+  width: 700px;
+  height: 400px;
+  perspective: 1500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Flip Effect */
+.ff-book {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.8s;
+}
+
+/* Flip Animation */
+.ff-container.ff-flipped .ff-book {
+  transform: rotateY(-180deg);
+}
+
+/* Page Structure */
+.ff-page {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: flex;
+  backface-visibility: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Front Side */
+.ff-page-front {
+  background: #fff;
+  z-index: 2;
+}
+
+/* Back Side */
+.ff-page-back {
+  background: #fff;
+  transform: rotateY(180deg);
+  z-index: 1;
+}
+
+/* Page Content */
+.ff-left,
+.ff-right {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Image Section */
+.ff-left img,
+.ff-right img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Form Styling */
+.ff-form-content {
+  width: 80%;
+  text-align: center;
+}
+
+.ff-form-content h2 {
+  margin-bottom: 20px;
+  font-size: 22px;
+  color: #333;
+}
+
+.ff-form-content form {
+  display: flex;
+  flex-direction: column;
+}
+
+.ff-form-content input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.ff-form-content button {
+  margin-top: 10px;
+  padding: 10px;
+  background: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.ff-form-content button:hover {
+  background: #0056b3;
+}
+
+.ff-form-content p {
+  margin-top: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.ff-form-content p span {
+  color: #007BFF;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.ff-forgot-password {
+  color: #007BFF;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .ff-container {
+    width: 90%;
+  }
+
+  .ff-form-content {
+    width: 90%;
+  }
+}

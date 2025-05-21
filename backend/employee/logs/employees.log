@@ -1,0 +1,168 @@
+2025-05-19 11:55:53,825 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:55:53,825 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:55:53,865 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:55:54,339 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:55:54,966 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:55:54,978 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:55:54,978 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:55:55,004 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:55:57,615 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:55:57,615 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:55:57,615 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:55:57,622 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:56:53,137 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:56:53,138 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:56:53,138 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:56:53,155 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:02,214 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:02,214 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:02,214 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:02,229 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:27,192 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:27,192 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:27,192 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:27,235 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:39,356 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:39,357 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:39,357 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:39,370 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:40,113 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:40,113 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:40,113 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:40,121 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:44,093 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:44,093 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:44,093 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:44,109 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:50,108 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:50,109 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:50,109 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:50,117 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:52,117 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:57:52,118 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:57:52,118 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:57:52,127 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:58:59,825 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:58:59,825 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:58:59,826 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:58:59,848 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:58:59,883 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:58:59,883 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:58:59,883 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:58:59,899 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:02,266 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 11:59:02,266 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:59:02,266 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:02,276 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:52,342 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: raghav@staff.com
+2025-05-19 11:59:52,342 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:59:52,342 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:52,374 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:52,443 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: raghav@staff.com
+2025-05-19 11:59:52,443 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 11:59:52,443 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 11:59:52,460 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:21,982 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:21,982 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:22,022 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:22,115 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:22,449 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:22,450 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:22,450 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:22,461 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:22,632 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:22,633 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:22,634 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:22,638 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:23,950 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:23,951 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:23,951 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:23,960 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:25,178 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:25,179 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:25,179 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:25,192 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:26,002 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:36:26,002 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:36:26,005 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:26,019 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:36:27,065 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of all the employees matching with name: R
+2025-05-19 16:36:27,066 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNames(...) method of EmployeeServiceImpl
+2025-05-19 16:36:27,068 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNames(...) method of EmployeeDAOImpl
+2025-05-19 16:36:27,077 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching corresponding IDs of employee with names matching with name: R
+2025-05-19 16:36:27,077 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeIDsByName(...) method of EmployeeServiceImpl
+2025-05-19 16:36:27,078 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeIDsByName(...) method of EmployeeDAOImpl
+2025-05-19 16:36:27,104 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNames(...) method of EmployeeDAOImpl
+2025-05-19 16:36:27,118 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeIDsByName(...) method of EmployeeDAOImpl
+2025-05-19 16:36:29,323 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching details of employee with id:2
+2025-05-19 16:36:29,324 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeByID(...) method of EmployeeServiceImpl
+2025-05-19 16:36:29,324 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 16:36:29,339 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 16:38:30,743 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:38:30,743 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:38:30,743 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:38:30,773 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:38:33,647 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 16:38:33,647 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 16:38:33,648 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 16:38:33,669 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:09:10,322 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:09:10,325 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:09:10,408 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:09:10,913 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:09:11,592 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:09:11,593 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:09:11,594 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:09:11,606 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:18,577 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:18,577 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:18,578 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:18,598 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:18,803 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:18,803 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:18,803 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:18,810 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:19,865 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:19,865 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:19,866 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:19,877 [http-nio-8081-exec-6] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,202 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:21,202 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:21,202 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,211 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching all employees
+2025-05-19 17:11:21,211 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getAllEmployees(...) method of EmployeeServiceImpl
+2025-05-19 17:11:21,212 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getAllEmployees(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,214 [http-nio-8081-exec-7] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,252 [http-nio-8081-exec-8] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getAllEmployees(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,428 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching all employees
+2025-05-19 17:11:21,428 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getAllEmployees(...) method of EmployeeServiceImpl
+2025-05-19 17:11:21,428 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getAllEmployees(...) method of EmployeeDAOImpl
+2025-05-19 17:11:21,443 [http-nio-8081-exec-9] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getAllEmployees(...) method of EmployeeDAOImpl
+2025-05-19 17:11:22,159 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:22,159 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:22,159 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:22,177 [http-nio-8081-exec-10] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:26,071 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching details of employee with id:2
+2025-05-19 17:11:26,071 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeByID(...) method of EmployeeServiceImpl
+2025-05-19 17:11:26,071 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 17:11:26,084 [http-nio-8081-exec-1] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 17:11:28,855 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Downloading employee data Excel Sheet
+2025-05-19 17:11:28,856 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Excel Download: Data for Employee ID: 2
+2025-05-19 17:11:28,856 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeByID(...) method of EmployeeServiceImpl
+2025-05-19 17:11:28,856 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 17:11:28,865 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeByID(...) method of EmployeeDAOImpl
+2025-05-19 17:11:28,865 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeExcelExportServiceImpl - Entering generateExcelAsync(...) method of EmployeeExcelExportServiceImpl
+2025-05-19 17:11:30,178 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.service.EmployeeExcelExportServiceImpl - Exit generateExcelAsync(...) method of EmployeeExcelExportServiceImpl
+2025-05-19 17:11:30,203 [http-nio-8081-exec-2] INFO  com.spectramd.focus.employee.controller.EmployeeController - Excel generation initiated
+2025-05-19 17:11:32,450 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:32,451 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:32,452 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:32,475 [http-nio-8081-exec-3] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:48,889 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:48,889 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:48,890 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:48,913 [http-nio-8081-exec-4] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:48,969 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.controller.EmployeeController - Fetching names of the employee with email ID: ramesh.iyer@staff.com
+2025-05-19 17:11:48,969 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.service.EmployeeServiceImpl - Reached getEmployeeNameByEmail(...) method of EmployeeServiceImpl
+2025-05-19 17:11:48,969 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Entering getEmployeeNameByEmail(...) method of EmployeeDAOImpl
+2025-05-19 17:11:48,974 [http-nio-8081-exec-5] INFO  com.spectramd.focus.employee.dao.EmployeeDAOImpl - Exit getEmployeeNameByEmail(...) method of EmployeeDAOImpl

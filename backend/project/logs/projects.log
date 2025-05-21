@@ -1,0 +1,20 @@
+2025-05-19 11:59:52,676 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.controller.ProjectController - Fetching details of project with id: 3
+2025-05-19 11:59:52,678 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.controller.ProjectController - Fetching details of project with id: 1
+2025-05-19 11:59:52,678 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.service.ProjectServiceImpl - Reached getProjectByID(...) method of ProjectServiceImpl
+2025-05-19 11:59:52,678 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.service.ProjectServiceImpl - Reached getProjectByID(...) method of ProjectServiceImpl
+2025-05-19 11:59:52,713 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Entering getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 11:59:52,713 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Entering getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 11:59:52,845 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Exit getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 11:59:52,845 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Exit getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 11:59:53,011 [http-nio-8082-exec-3] INFO  com.spectramd.focus.project.controller.ProjectController - Fetching details of project with id: 3
+2025-05-19 11:59:53,011 [http-nio-8082-exec-3] INFO  com.spectramd.focus.project.service.ProjectServiceImpl - Reached getProjectByID(...) method of ProjectServiceImpl
+2025-05-19 11:59:53,011 [http-nio-8082-exec-3] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Entering getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 11:59:53,027 [http-nio-8082-exec-3] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Exit getProjectByID(...) method of ProjectDAOImpl
+2025-05-19 17:11:20,128 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.controller.ProjectController - Fetching all projects
+2025-05-19 17:11:20,128 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.service.ProjectServiceImpl - Reached getAllProjects(...) method of ProjectServiceImpl
+2025-05-19 17:11:20,258 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Entering getAllProjects(...) method of ProjectDAOImpl
+2025-05-19 17:11:20,387 [http-nio-8082-exec-1] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Exit getAllProjects(...) method of ProjectDAOImpl
+2025-05-19 17:11:20,662 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.controller.ProjectController - Fetching all projects
+2025-05-19 17:11:20,665 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.service.ProjectServiceImpl - Reached getAllProjects(...) method of ProjectServiceImpl
+2025-05-19 17:11:20,665 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Entering getAllProjects(...) method of ProjectDAOImpl
+2025-05-19 17:11:20,677 [http-nio-8082-exec-2] INFO  com.spectramd.focus.project.dao.ProjectDAOImpl - Exit getAllProjects(...) method of ProjectDAOImpl

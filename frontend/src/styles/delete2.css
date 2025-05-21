@@ -1,0 +1,154 @@
+.del-container {
+  padding: 2rem;
+  background-color: #fdfdfd;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.del-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #333;
+}
+
+.del-options {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.del-options label {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.del-input {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  gap: 20px;
+}
+
+.del-input input {
+  flex:1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  transition: border 0.3s ease;
+  width: 3000px;
+}
+
+.del-button {
+  display: flex;
+  margin: 0 auto;
+  font-size: 1rem;
+  background-color: #e53935;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100px;
+  justify-content: center;
+}
+
+.del-button:hover {
+  background-color: #c62828;
+}
+
+.del-button.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.del-preview-box {
+  text-align: left;
+  font-size: 0.95rem;
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.del-confirm-warning {
+  font-weight: bold;
+  color: #c62828;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+
+.table-wrapper-del {
+  width: 1200px;
+  margin: 2rem auto;
+  
+}
+
+.delete-dropdown-del {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  max-width: 400px;
+  margin: 2rem auto;
+}
+
+.delete-dropdown-del select {
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  width: 100%;
+}
+
+.delete-btn-del {
+  padding: 10px 20px;
+  background-color: #e63946;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 40px;
+  width: 80%;
+}
+
+.delete-btn-del:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.delete-btn-del:hover:enabled {
+  background-color: #b71c1c;
+}
+
+.get-button-del {
+  display: block;
+  margin: 0 auto;
+  padding: 0.7rem 2rem;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.get-button-del:hover {
+  background-color: #0056b3;
+}
+
+.get-button-del.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}

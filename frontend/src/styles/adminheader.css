@@ -1,0 +1,143 @@
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: #0f172a;
+    color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Left Section: Logo & Title */
+.admin-logo-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.admin-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.admin-title {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Center Section: Admin Dashboard + Nav Links */
+.admin-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    flex-direction: column;
+    text-align: center;
+}
+
+.admin-dashboard-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+/* Navigation Links */
+.admin-center-nav {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    margin-right: 50px;
+}
+
+/* Dropdowns */
+.admin-dropdown {
+    position: relative;
+}
+
+.admin-dropdown-button {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Dropdown Content */
+.admin-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+    text-align: left;
+    padding: 8px 0;
+}
+
+.admin-dropdown:hover .admin-dropdown-content {
+    display: block;
+}
+
+/* Align Buttons */
+.admin-dropdown-content button {
+    padding: 10px 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    background: none;
+    font-size: 14px;
+    cursor: pointer;
+    color: black;
+}
+
+.admin-dropdown-content button:hover {
+    background-color: #e2e8f0;
+}
+
+/* Right Section: Icons */
+.admin-right-section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.admin-right-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.admin-right-nav ul li,
+.admin-user-icon svg {
+    font-size: 22px;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.admin-right-nav ul li:hover,
+.admin-user-icon:hover {
+    color: #38bdf8;
+}
+
+.active-link {
+    color: #38bdf8 !important;
+}
+
+
+.admin-user-icon span {
+    margin-left: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}

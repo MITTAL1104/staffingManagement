@@ -1,0 +1,87 @@
+.create-container {
+  padding: 2rem;
+  background-color: #fdfdfd;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.create-container h2 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.create-container input[type="text"],
+.create-container input[type="email"],
+.create-container input[type="date"],
+.create-container input[type="role"] {
+  width: calc(100% - 22px);
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+}
+
+.checkbox-container-create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.checkbox-container-create label {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.checkbox-container-create input {
+  transform: scale(0.8);
+  cursor: pointer;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+  margin-top: 15px;
+
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.checkbox-container-create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.checkbox-item-create {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.checkbox-item-create input {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+label {
+  text-align: left;
+}

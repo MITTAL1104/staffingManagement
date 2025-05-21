@@ -1,0 +1,94 @@
+/* Container and Box Styling */
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f4f4f4;
+  }
+  
+  .auth-box {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    max-width: 90%;
+    text-align: center;
+    transition: 0.3s;
+  }
+  
+  .auth-box:hover {
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Title and Form Styling */
+  .auth-title {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+  }
+  
+  .auth-input {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    transition: 0.3s;
+  }
+  
+  .auth-input:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+  }
+  
+  /* Buttons */
+  .auth-button, .auth-down-button {
+    padding: 12px 20px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+  }
+  
+  .auth-success {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .auth-error {
+    color: red;
+    margin-top: 10px;
+  }
+
+  .auth-button:hover, .auth-down-button:hover {
+    background: #0056b3;
+  }
+
+  .login-buttons{
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .auth-box {
+      width: 90%;
+      padding: 30px;
+    }
+  
+    .auth-input, .auth-button, .auth-down-button {
+      font-size: 14px;
+    }
+  }
+  

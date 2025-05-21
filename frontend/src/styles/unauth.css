@@ -1,0 +1,60 @@
+/* Unauthorized Page Styling */
+.unauthorized-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .unauthorized-container h2 {
+    font-size: 32px;
+    color: #d9534f; /* Red color for warning */
+    margin-bottom: 10px;
+  }
+  
+  .unauthorized-container p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  .nav-buttons-below {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Button Styling */
+  .btn-back-unauth, .btn-home-unauth, .btn-logout-unauth {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .btn-back-unauth:hover, .btn-home-unauth:hover, .btn-logout-unauth:hover {
+    background-color: #0056b3;
+  }
+  
+
+  .btn-logout-unauth {
+    position: absolute;
+    top: 10px;
+    left:10px;
+    background-color: #dc3545; /* Red for logout */
+  }
+  
+  .btn-logout-unauth:hover {
+    background-color: #c82333;
+  }
+  
