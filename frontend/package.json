@@ -2,6 +2,7 @@
   "name": "staff_project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MITTAL1104.github.io/staffingManagement",
   "dependencies": {
     "@material-tailwind/react": "^2.1.10",
     "@testing-library/dom": "^10.4.0",
